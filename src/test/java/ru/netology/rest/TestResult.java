@@ -19,7 +19,7 @@ public class TestResult {
 // Проверки
                 .then()
                 .statusCode(200)
-                .body("data", equalTo("fale"))
+                .body("data", equalTo("HWauto"))
         ;
     }
 
